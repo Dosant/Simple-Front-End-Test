@@ -41,8 +41,8 @@
 ## 4. Базовый JS на примере массивов
 ![Tests](https://cl.ly/2p3I0m0i2l0r/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202017-06-25%20%D0%B2%2017.19.35.png)
 
-* [Старт](https://jsbin.com/ciqesi/2/edit?html,css,output)
-* [Финиш](https://jsbin.com/ciqesi/1/edit?html,css,output)
+* [Старт](https://jsbin.com/nonalab/2/edit?html,js,output)
+* [Финиш](https://jsbin.com/nonalab/1/edit?html,js,output)
 
 ## 5. DOM, События - 2-way binding
 Нужно сделать простейший 2-way data binding. Есть `<input type="text" />`. Пользователь вводит текст и изменения сразу же отображаются в элементе `<p>`. По клику на кнопку *Очистить* текст чистится из `input` и `p`.
